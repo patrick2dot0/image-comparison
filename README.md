@@ -13,4 +13,4 @@ put other images into folder 'images'
 
 execute 'comparison' and you will get the desirable results in folder 'mark'
 + result
-<img src="mark/Lena2.jpg" width="50%" height="50%" />
+<img src="mark/mark_Lena2.jpg" width="50%" height="50%" />
